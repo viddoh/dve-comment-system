@@ -1,0 +1,39 @@
+body {
+	font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+}
+main {
+	margin: 0 auto;
+	max-width: 850px;
+	line-height: 1.6em;
+	color: #2c3e50;
+	font-size: 16px;
+	text-align: justify;
+}
+.comment-system-app-heading {
+	margin: 0 auto;
+	padding: 50px 10px;
+	text-align: center;
+	font-size: 30px;
+}
+.comment-system-app-panel {
+	position: relative;
+	padding: 40px;
+	background-color: #f1f1f1;
+	border-radius: 15px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.comment-system-app-comments-heading {
+	margin: 30px 0;
+}
+.comment-system-app-write-post-submit {
+	margin-top: 10px;
+}
+.comment-system-app-write-post-submit:hover {
+	background-color: #b1b1b1;
+}
+.comment-system-app-comment {
+	margin-bottom: 10px;
+	padding: 5px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
